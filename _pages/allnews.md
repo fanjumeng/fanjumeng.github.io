@@ -8,7 +8,7 @@ permalink: /allnews.html
 
 # News
 
-**April 2024** <br>
+**May 2024** <br>
 Our lab website go alive today! The lab will officially start on September 1st, 2024!<br>
 <br>
 <br>
