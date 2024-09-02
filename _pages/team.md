@@ -20,7 +20,6 @@ Twitter: [@FanjuMeng](https://twitter.com/FanjuMeng) <br>
 Pronouns: he/him/his <br>
 <br>
 <br>
-<br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/ChristianMeshesha.jpg){: style="width: 275px; float: left; border: 10px"} <br>
 
 #### Christian Meshesha - *Undergraduate Student*
@@ -28,6 +27,26 @@ TAMS student
 
 Email: ChristianMeshesha@my.unt.edu
 
+<br>
+<br>
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/Zebrafish.png){: style="width: 275px; float: left; border: 10px"} <br>
+
+#### Brandon Doh - *Undergraduate Student*
+TAMS student
+
+Email: BrandonDoh@my.unt.edu
+
+<br>
+<br>
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/Zebrafish.png){: style="width: 275px; float: left; border: 10px"} <br>
+
+#### Krithik Ramesh - *Undergraduate Student*
+TAMS student
+
+Email: KrithikRamesh@my.unt.edu
+
+<br>
+<br>
 <br>
 <br>
 <br>
