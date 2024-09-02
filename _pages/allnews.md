@@ -11,9 +11,8 @@ permalink: /allnews.html
 **May 2024** <br>
 Our lab website go alive today! The lab will officially start on September 1st, 2024!<br>
 <br>
-<br>
 **September 2024** <br>
-Great news for the new semester! Three undergraduate students - Brandon, Christian and Krithik joined the lab. Welcome! <br>
+Great news for the new semester! Three undergraduate students joined the lab. Welcome Brandon, Christian and Krithik! <br>
 <br>
 <br>
 <br>
