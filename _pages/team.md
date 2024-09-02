@@ -21,6 +21,12 @@ Pronouns: he/him/his <br>
 <br>
 <br>
 <br>
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/ChristianMeshesha.jpg){: style="width: 275px; float: left; border: 10px"} <br>
+
+#### Christian Meshesha - *Undergraduate Student(TAMS)*
+
+Email: ChristianMeshesha@my.unt.edu
+
 <br>
 <br>
 <br>
