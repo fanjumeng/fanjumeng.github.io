@@ -51,7 +51,7 @@ Email: BrandonDoh@my.unt.edu
 <br>
 <br>
 <br>
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/Zebrafish.png){: style="width: 275px; float: left; border: 10px"} <br>
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/KrithikRamesh.jpg){: style="width: 275px; float: left; border: 10px"} <br>
 
 #### Krithik Ramesh - *Undergraduate Student*
 TAMS student
