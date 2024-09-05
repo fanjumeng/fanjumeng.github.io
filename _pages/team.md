@@ -37,14 +37,19 @@ Email: ChristianMeshesha@my.unt.edu
 <br>
 <br>
 <br>
-<br>
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/Zebrafish.png){: style="width: 275px; float: left; border: 10px"} <br>
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/BrandonDoh.jpg){: style="width: 275px; float: left; border: 10px"} <br>
 
 #### Brandon Doh - *Undergraduate Student*
 TAMS student
 
 Email: BrandonDoh@my.unt.edu
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
