@@ -23,9 +23,6 @@ Email: Xiaolu.Wei@unt.edu
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 ## *Undergraduate Student*
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/ChristianMeshesha.jpg){: style="width: 275px; float: left; border: 10px"} <br>
 
