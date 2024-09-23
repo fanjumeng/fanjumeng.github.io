@@ -20,7 +20,7 @@ permalink: /
  
  **Undergraduate students** - We welcome motivated undergraduate students to join us. Please send Fanju an email for further discussion if you are interested in learning about of our work!
  
- **Contact Us** - Email: [Fanju.Meng@unt.edu](mailto:Fanju.Meng@unt.edu)
+ **<u>Contact Us</u>** - Email: [Fanju.Meng@unt.edu](mailto:Fanju.Meng@unt.edu)
 <br>
 <br>
 <br> 
