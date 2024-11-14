@@ -31,6 +31,9 @@ Spearheaded by former undergraduate student Fabian Halblander, we show that the 
 
 \* Co-first authors, + Corresponding/Co-corresponding authors, # Undergraduate researcher <br>
 
+Das D, Khor ES, Jiang F, He J, Kawakami Y, Wainwright L, Hollinger J, Geiger J, Liu H,  **Meng FW**, Porter GA, Jin Z, Murphy PJ, Yao P. (2024) Loss-of-function of RNA-binding protein PRRC2B causes translational defects and congenital cardiovascular malformation. *medRxiv*.
+[https://www.medrxiv.org/content/10.1101/2024.09.26.24313895v1](https://www.medrxiv.org/content/10.1101/2024.09.26.24313895v1)<br>
+
 Blanc RS<sup>+</sup>, Shah N, Salama NA, **Meng FW**, Mousaei A, Chakkalakal JV, Onukwufor JO, Murphy PJ, Calvi LM, Dirksen RT. (2024) Epigenetic erosion of H4K20me1 induced by inflammation drives aged stem cell ferroptosis. *Research Square*.
 [https://www.researchsquare.com/article/rs-3937628/v1](https://www.researchsquare.com/article/rs-3937628/v1)<br>
 

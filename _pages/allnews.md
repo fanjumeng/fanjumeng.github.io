@@ -7,7 +7,9 @@ permalink: /allnews.html
 ---
 
 # News
-
+<br>
+**November 2024** <br>
+Brandon and Krithik signed up for the [FWRSEF](https://www.fwrsef.org/)(Fort Worth Regional Science and Engineering Fair). Great teamwork and look forward to their presentation in February 2025! <br>
 <br>
 **November 2024** <br>
 Fanju presented his work this Friday at the BioFrontiers Seminar Series. That's his first departmental seminar after jointing UNT!<br>
