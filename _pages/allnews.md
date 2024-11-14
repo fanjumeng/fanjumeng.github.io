@@ -9,6 +9,17 @@ permalink: /allnews.html
 # News
 
 <br>
+**November 2024** <br>
+Fanju presented his work this Friday at the BioFrontiers Seminar Series. That's his first departmental seminar after jointing UNT!<br>
+<br>
+**October 2024** <br>
+Our Stirling freezer finally arrived, now it's working hard to cool down. Hooray! <br>
+![]({{ site.url }}{{ site.baseurl }}/images/newspic/Freezer.jpeg){: style="width: 275px; float: below; border: 10px"} <br>
+<br>
+**October 2024** <br>
+Fanju attended the ICIBM 2024 meeting at Houston and gave a talk about genomic profiling in developing zebrafish embryos. <br>
+![]({{ site.url }}{{ site.baseurl }}/images/newspic/ICIBM_2024_2.jpeg){: style="width: 275px; float: below; border: 10px"} <br>
+<br>
 **September 2024** <br>
 Welcome Xiaolu to join the lab as a Postdoc Associate! She will apply bioinformatic analyses with various genomic datasets to study embryogenesis. <br>
 <br>
