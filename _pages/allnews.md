@@ -9,7 +9,7 @@ permalink: /allnews.html
 # News
 <br>
 **November 2024** <br>
-We have been doing bioinformatic analysis, and now our IBC and IACUC protocols are approved today! We're excited to do REAL experiments on the bench! <br>
+We have been doing bioinformatic analyses, and now our IBC and IACUC protocols are approved today! We're excited to do REAL experiments on the bench! <br>
 <br>
 **November 2024** <br>
 Brandon and Krithik signed up for the [FWRSEF](https://www.fwrsef.org/) (Fort Worth Regional Science and Engineering Fair). Great teamwork and look forward to their presentation in February 2025! <br>
