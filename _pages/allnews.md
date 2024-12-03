@@ -9,6 +9,9 @@ permalink: /allnews.html
 # News
 <br>
 **November 2024** <br>
+Welcome Vijaykumar to join our lab as the first graduate student in the lab! <br> 
+<br>
+**November 2024** <br>
 We have been doing bioinformatic analyses, and now our IBC and IACUC protocols are approved today! We're excited to do REAL experiments on the bench! <br>
 <br>
 **November 2024** <br>
