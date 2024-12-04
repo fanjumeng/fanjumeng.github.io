@@ -8,6 +8,11 @@ permalink: /allnews.html
 
 # News
 <br>
+**December 2024** <br>
+Fun lab lunch today to celebrate end of this semester! <br>
+![]({{ site.url }}{{ site.baseurl }}/images/newspic/Lunch_Dec2024.jpeg){: style="width: 275px; float: below; border: 10px"} <br>
+ pictured (left to right):Fanju, Krithik, Brandon, Xiaolu; not pictured: Christian
+<br>
 **November 2024** <br>
 Welcome Vijaykumar to join our lab as the first graduate student in the lab! <br> 
 <br>
