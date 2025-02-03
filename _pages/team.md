@@ -92,4 +92,13 @@ Email: VeronicaPelis@my.unt.edu
 
 
 # Former Lab Members
+<br>
 #### Christian Meshesha (Undergraduate student, September-December 2024)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
