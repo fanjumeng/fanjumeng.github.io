@@ -8,6 +8,9 @@ permalink: /allnews.html
 
 # News
 <br>
+**January 2025** <br>
+Three new undergraduate students joined our lab. Welcome Blain, Jacques and Veronica! <br> 
+<br>
 **December 2024** <br>
 Fun lab lunch today to celebrate end of this semester! <br>
 ![]({{ site.url }}{{ site.baseurl }}/images/newspic/Lunch_Dec2024.jpeg){: style="width: 275px; float: below; border: 5px"} <br>
