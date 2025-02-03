@@ -25,23 +25,13 @@ Email: Xiaolu.Wei@unt.edu
 <br>
 <br>
 <br>
+## *Graduate Student*
+
+#### Vijaykumar Naidu
+
+Email: vijaykumarnaidu@my.unt.edu
+
 ## *Undergraduate Student*
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/ChristianMeshesha.jpg){: style="width: 275px; float: left; border: 10px"} <br>
-
-#### Christian Meshesha
-
-Email: ChristianMeshesha@my.unt.edu
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/BrandonDoh.jpg){: style="width: 275px; float: left; border: 10px"} <br>
 
 #### Brandon Doh 
@@ -68,3 +58,29 @@ Email: KrithikRamesh@my.unt.edu
 <br>
 <br>
 <br>
+
+#### Blain Daniel
+
+Email: BlainDaniel@my.unt.edu
+
+<br>
+<br>
+<br>
+#### Jacques Saseu
+
+Email: JacquesSaseu@my.unt.edu
+
+<br>
+<br>
+<br>
+#### Veronica Pelis
+
+Email: VeronicaPelis@my.unt.edu
+
+<br>
+<br>
+<br>
+
+
+# Former Lab Members
+#### Christian Meshesha (Undergraduate student, September-December 2024)
