@@ -108,6 +108,10 @@ Email: JacquesSaseu@my.unt.edu
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+
 
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/VeronicaPelis.png){: style="width: 275px; float: left; border: 10px"} <br>
 
