@@ -26,10 +26,19 @@ Email: Xiaolu.Wei@unt.edu
 <br>
 <br>
 ## *Graduate Student*
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/VijayNaidu.jpg){: style="width: 275px; float: left; border: 10px"} <br>
 
 #### Vijaykumar Naidu
 
 Email: vijaykumarnaidu@my.unt.edu
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## *Undergraduate Student*
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/BrandonDoh.jpg){: style="width: 275px; float: left; border: 10px"} <br>
@@ -62,11 +71,7 @@ Email: KrithikRamesh@my.unt.edu
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/BlainDaniel.jpg){: style="width: 275px; float: left; border: 10px"} <br>
 
 #### Blain Daniel
 
@@ -75,13 +80,27 @@ Email: BlainDaniel@my.unt.edu
 <br>
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
+
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/JacquesSaseu.png){: style="width: 275px; float: left; border: 10px"} <br>
+
 #### Jacques Saseu
 
 Email: JacquesSaseu@my.unt.edu
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-<br>
-<br>
-<br>
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/VeronicaPelis.png){: style="width: 275px; float: left; border: 10px"} <br>
+
 #### Veronica Pelis
 
 Email: VeronicaPelis@my.unt.edu
@@ -89,7 +108,13 @@ Email: VeronicaPelis@my.unt.edu
 <br>
 <br>
 <br>
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 # Former Lab Members
 <br>
