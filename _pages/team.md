@@ -122,13 +122,24 @@ Email: VeronicaPelis@my.unt.edu
 <br>
 <br>
 <br>
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/MadeleineHudson.jpg){: style="width: 275px; float: left; border: 10px"} <br>
+
+#### Madeleine Hudson
+
+Email: MadeleineHudson2@my.unt.edu
+
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>
 
 # Former Lab Members
 <br>
-#### Christian Meshesha (Undergraduate student, September-December 2024)
+#### Christian Meshesha (Undergraduate student, September-December 2024, Currently Baylor's Medical Science master program)
 <br>
 <br>
 <br>

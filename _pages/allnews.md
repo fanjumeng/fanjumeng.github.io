@@ -8,6 +8,15 @@ permalink: /allnews.html
 
 # News
 <br>
+**March 2025** <br>
+Huge congrats to Christian! She got an offer to Baylor's Medical Science master program!  <br> 
+<br>
+**February 2025** <br>
+Brandon did a fantastic presentation at the Fort Worth Regional Science and Engineering Fair for the joint project with Krithik. They were selected to enter the next level state-wide competition. Great teamwork!  <br> 
+<br>
+**February 2025** <br>
+Welcome Maddie to join our lab for her undergraduate project study! <br> 
+<br>
 **January 2025** <br>
 Three new undergraduate students joined our lab. Welcome Blain, Jacques and Veronica! <br> 
 <br>
