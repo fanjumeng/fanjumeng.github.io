@@ -142,7 +142,7 @@ Email: MadeleineHudson2@my.unt.edu
 
 # Former Lab Members
 <br>
-#### Christian Meshesha (Undergraduate student, September-December 2024, Currently Baylor's Medical Science master program)
+#### Christian Meshesha (Undergraduate student, September-December 2024)
 <br>
 <br>
 <br>
