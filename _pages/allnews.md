@@ -8,6 +8,9 @@ permalink: /allnews.html
 
 # News
 <br>
+**April 2025** <br>
+Our lab joined Advanced Environmental Research Institute ([AERI](https://aeri.unt.edu/index.html)) and Center for Computational Life Sciences ([CCLS](https://ccls.unt.edu/index.html)). Looking forward to more discussion and collaborations! <br> 
+<br>
 **March 2025** <br>
 Huge congrats to Christian! She got an offer to Baylor's Medical Science master program!  <br> 
 <br>
