@@ -9,7 +9,7 @@ permalink: /allnews.html
 # News
 <br>
 **June 2025** <br>
-The book chapter at Methods in Molecular Biology is out! We summarized patterns of histone variants from sperm to early embryos. <br>
+The book chapter at [Methods in Molecular Biology](https://link.springer.com/protocol/10.1007/978-1-0716-4522-2_2) is out! We summarized patterns of histone variants from sperm to early embryos. <br>
 <br>
 **May 2025** <br>
 Congrats to Veronica and Jacques for their graduation! It's great semester to have you in the lab. <br>
