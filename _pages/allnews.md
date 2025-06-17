@@ -8,6 +8,15 @@ permalink: /allnews.html
 
 # News
 <br>
+**June 2025** <br>
+The book chapter at Methods in Molecular Biology is out! We summarized patterns of histone variants from sperm to early embryos. <br>
+<br>
+**May 2025** <br>
+Congrats to Veronica and Jacques for their graduation! It's great semester to have you in the lab. <br>
+<br>
+**May 2025** <br>
+Xiaolu gave a great presentation at the BDI/AERI Rsearch EXPO! <br> 
+<br>
 **April 2025** <br>
 Our lab joined Advanced Environmental Research Institute ([AERI](https://aeri.unt.edu/index.html)) and Center for Computational Life Sciences ([CCLS](https://ccls.unt.edu/index.html)). Looking forward to more discussion and collaborations! <br> 
 <br>

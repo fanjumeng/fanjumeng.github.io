@@ -31,6 +31,9 @@ Spearheaded by former undergraduate student Fabian Halblander, we show that the 
 
 \* Co-first authors, + Corresponding/Co-corresponding authors, # Undergraduate researcher <br>
 
+**Meng FW**, Murphy PJ<sup>+</sup>. (2025) Canonical and Variant Nucleosome Reprogramming from Sperm to Blastula. *Methods in Molecular Biology*
+[https://link.springer.com/protocol/10.1007/978-1-0716-4522-2_2](https://link.springer.com/protocol/10.1007/978-1-0716-4522-2_2)<br>
+ 
 Das D, Khor ES, Jiang F, He J, Kawakami Y, Wainwright L, Hollinger J, Geiger J, Liu H,  **Meng FW**, Porter GA, Jin Z, Murphy PJ, Yao P. (2024) Loss-of-function of RNA-binding protein PRRC2B causes translational defects and congenital cardiovascular malformation. *medRxiv*.
 [https://www.medrxiv.org/content/10.1101/2024.09.26.24313895v1](https://www.medrxiv.org/content/10.1101/2024.09.26.24313895v1)<br>
 

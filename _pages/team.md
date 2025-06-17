@@ -88,40 +88,6 @@ Email: BlainDaniel@my.unt.edu
 <br>
 <br>
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/JacquesSaseu.png){: style="width: 275px; float: left; border: 10px"} <br>
-
-#### Jacques Saseu
-
-Email: JacquesSaseu@my.unt.edu
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/VeronicaPelis.jpg){: style="width: 275px; float: left; border: 10px"} <br>
-
-#### Veronica Pelis
-
-Email: VeronicaPelis@my.unt.edu
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/MadeleineHudson.jpg){: style="width: 275px; float: left; border: 10px"} <br>
 
 #### Madeleine Hudson
@@ -142,6 +108,8 @@ Email: MadeleineHudson2@my.unt.edu
 
 # Former Lab Members
 <br>
+#### Jacques Saseu (undergraduate student, January-June 2025)
+#### Veronica Pelis (undergraduate student, January-June 2025)
 #### Christian Meshesha (Undergraduate student, September-December 2024)
 <br>
 <br>
