@@ -9,10 +9,10 @@ permalink: /allnews.html
 # News
 <br>
 **July 2025** <br>
-Our study of mapping Tol2 transgene insertion sites is online today in [Cell Reports Methods](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(25)00126-2). We will use this simple method to map zebrafish transgenes!
+Our study of mapping Tol2 transgene insertion sites is online today in [Cell Reports Methods](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(25)00126-2). We will use this simple method to map zebrafish transgenes! <br>
 <br>
 **July 2025** <br>
-Great to contribute to the study of epigenetic patterning of H4K20me1 in regulating ferroptosis of muscle stem cells during aging. The paper is out in [Nature Aging](https://www.nature.com/articles/s43587-025-00902-5).
+Great to contribute to the study of epigenetic patterning of H4K20me1 in regulating ferroptosis of muscle stem cells during aging. The paper is out in [Nature Aging](https://www.nature.com/articles/s43587-025-00902-5).<br>
 <br>
 **June 2025** <br>
 The book chapter at [Methods in Molecular Biology](https://link.springer.com/protocol/10.1007/978-1-0716-4522-2_2) is out! We summarized patterns of histone variants from sperm to early embryos. <br>
