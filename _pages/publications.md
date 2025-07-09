@@ -12,6 +12,7 @@ You can find the full list of publications on [Google Scholar](https://scholar.g
 
 ### Highlighted recent publications
 <img src = "{{ site.url}}{{ site.baseurl}}/images/pubpic/TransTag.png" class="img-responsive" width = "25%" style="float: left; padding-left: 15px" />
+<br>
 **TransTag enables simple and efficient transgene mapping in zebrafish via tagmentation.** *Cell Reports Methods*. [https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(25)00126-2](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(25)00126-2)
 
 We present a method to map transgene insertion sites of Tol2-based transgenic lines in zebrafish. We hope this method could facilite precise mapping of transgenes to avoid potential off-target effects.
