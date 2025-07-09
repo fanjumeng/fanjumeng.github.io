@@ -31,6 +31,12 @@ Spearheaded by former undergraduate student Fabian Halblander, we show that the 
 
 \* Co-first authors, + Corresponding/Co-corresponding authors, # Undergraduate researcher <br>
 
+**Meng FW**<sup>+</sup>, Schneider P, Wei X, Ariyasiri K, Halpern ME, Murphy PJ<sup>+</sup>. (2025) TransTag enables simple and efficient transgene mapping in zebrafish via tagmentation. *Cell Reports Methods*
+[https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(25)00126-2](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(25)00126-2)<br>
+
+Blanc RS, Shah N, Hachmer S, Salama NAS, **Meng FW**, Mousaei A, Puri G, Hwang JH, Wacker EE, Yang BA, Aguilar CA, Chakkalakal JV, Onukwufor JO, Murphy PJ, Calvi LM, Dilworth FJ, Dirksen RT.(2025) Epigenetic erosion of H4K20me1 induced by inflammation drives aged stem cell ferroptosis. *Nature Aging*.
+[https://www.nature.com/articles/s43587-025-00902-5](https://www.nature.com/articles/s43587-025-00902-5)<br>
+
 **Meng FW**, Murphy PJ<sup>+</sup>. (2025) Canonical and Variant Nucleosome Reprogramming from Sperm to Blastula. *Methods in Molecular Biology*
 [https://link.springer.com/protocol/10.1007/978-1-0716-4522-2_2](https://link.springer.com/protocol/10.1007/978-1-0716-4522-2_2)<br>
  
