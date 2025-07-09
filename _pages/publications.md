@@ -17,6 +17,10 @@ You can find the full list of publications on [Google Scholar](https://scholar.g
 We present a method to map transgene insertion sites of Tol2-based transgenic lines in zebrafish. We hope this method could facilite precise mapping of transgenes to avoid potential off-target effects.
 <br>
 <br>
+<br>
+<br>
+<br>
+<br>
 
 <img src = "{{ site.url}}{{ site.baseurl}}/images/pubpic/RE_Development.png" class="img-responsive" width = "25%" style="float: left; padding-left: 15px" />
 <br>
