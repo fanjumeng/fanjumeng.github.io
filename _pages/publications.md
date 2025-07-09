@@ -20,7 +20,6 @@ We present a method to map transgene insertion sites of Tol2-based transgenic li
 <br>
 <br>
 <br>
-<br>
 
 <img src = "{{ site.url}}{{ site.baseurl}}/images/pubpic/RE_Development.png" class="img-responsive" width = "25%" style="float: left; padding-left: 15px" />
 <br>
@@ -33,9 +32,9 @@ The histone variant H2A.Z is known to be enriched at promoters and enhancers. By
 
 ### Full List of publications
 
-\* Co-first authors, + Corresponding/Co-corresponding authors, # Undergraduate researcher <br>
+/* Co-first authors, + Corresponding/Co-corresponding authors, # Undergraduate researcher <br>
 
-**Meng FW**<sup>+</sup>, Schneider P, Wei X, Ariyasiri K, Halpern ME, Murphy PJ<sup>+</sup>. (2025) TransTag enables simple and efficient transgene mapping in zebrafish via tagmentation. *Cell Reports Methods*
+**Meng FW**<sup>+</sup>, Schneider P<sup>#</sup>, Wei X, Ariyasiri K, Halpern ME, Murphy PJ<sup>+</sup>. (2025) TransTag enables simple and efficient transgene mapping in zebrafish via tagmentation. *Cell Reports Methods*
 [https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(25)00126-2](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(25)00126-2)<br>
 
 Blanc RS, Shah N, Hachmer S, Salama NAS, **Meng FW**, Mousaei A, Puri G, Hwang JH, Wacker EE, Yang BA, Aguilar CA, Chakkalakal JV, Onukwufor JO, Murphy PJ, Calvi LM, Dilworth FJ, Dirksen RT.(2025) Epigenetic erosion of H4K20me1 induced by inflammation drives aged stem cell ferroptosis. *Nature Aging*.
