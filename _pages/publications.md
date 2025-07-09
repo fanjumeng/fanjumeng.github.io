@@ -11,6 +11,13 @@ permalink: /publications/
 You can find the full list of publications on [Google Scholar](https://scholar.google.com/citations?hl=en&user=SCt51BIAAAAJ&view_op=list_works&authuser=1&sortby=pubdate) <br>
 
 ### Highlighted recent publications
+<img src = "{{ site.url}}{{ site.baseurl}}/images/pubpic/TransTag.png" class="img-responsive" width = "25%" style="float: left; padding-left: 15px" />
+**TransTag enables simple and efficient transgene mapping in zebrafish via tagmentation.** *Cell Reports Methods*. [https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(25)00126-2](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(25)00126-2)
+
+We present a method to map transgene insertion sites of Tol2-based transgenic lines in zebrafish. We hope this method could facilite precise mapping of transgenes to avoid potential off-target effects.
+<br>
+<br>
+
 <img src = "{{ site.url}}{{ site.baseurl}}/images/pubpic/RE_Development.png" class="img-responsive" width = "25%" style="float: left; padding-left: 15px" />
 <br>
 **Competition for H2A.Z underlies the developmental impacts of repetitive elements de-repression.** *Development*. [https://doi.org/10.1242/dev.202338](https://doi.org/10.1242/dev.202338)
@@ -18,13 +25,6 @@ You can find the full list of publications on [Google Scholar](https://scholar.g
 The histone variant H2A.Z is known to be enriched at promoters and enhancers. By establishing genomic profiles of H2A.Z using CUT&Tag, we show here that H2A.Z also marks a subset of repetitive elements(REs). Importantly, de-repression of REs leads to H2A.Z accumulation at REs while reduction at promoters. We propose that REs and gene promoters are competing for limited H2A.Z in early developing embryos.  
 <br>
 <br>
-<img src = "{{ site.url}}{{ site.baseurl}}/images/pubpic/Anp32e_DevBiol.png" class="img-responsive" width = "25%" style="float: left; padding-left: 15px" />
-**Anp32e protects against accumulation of H2A.Z at Sox motif containing promoters during zebrafish gastrulation.** *Developmental Biology*. [https://doi.org/10.1016/j.ydbio.2023.12.010](https://doi.org/10.1016/j.ydbio.2023.12.010)
-
-Spearheaded by former undergraduate student Fabian Halblander, we show that the H2A.Z chaperone, Anp32e, prevent premature H2A.Z accumulation at a subset of genes. These genes are highly enriched for Sox motifs. Our study thus suggest that Anp32e and H2A.Z might be particularly important for Sox transcription factors mediated gene expression program.
-<br>
-<br>
-
 
 
 ### Full List of publications
