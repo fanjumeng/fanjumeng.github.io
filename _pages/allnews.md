@@ -9,7 +9,7 @@ permalink: /allnews.html
 # News
 <br>
 **July 2025** <br>
-Welcome Lusia to join the lab for her undergraduate project! <br>
+Welcome Luisa to join the lab for her undergraduate project! <br>
 <br>
 **July 2025** <br>
 Congrats to Brandon! He is selected for the UNT Undergraduate Research Fellowship! <br>
