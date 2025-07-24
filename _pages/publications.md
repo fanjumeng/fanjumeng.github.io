@@ -35,6 +35,8 @@ The histone variant H2A.Z is known to be enriched at promoters and enhancers. By
 
 \* Co-first authors, + Corresponding/Co-corresponding authors, # Undergraduate researcher <br>
 
+**2025**
+
 **Meng FW**<sup>+</sup>, Schneider P<sup>#</sup>, Wei X, Ariyasiri K, Halpern ME, Murphy PJ<sup>+</sup>. (2025) TransTag enables simple and efficient transgene mapping in zebrafish via tagmentation. *Cell Reports Methods*.
 [https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(25)00126-2](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(25)00126-2)<br>
 
@@ -44,11 +46,15 @@ Blanc RS, Shah N, Hachmer S, Salama NAS, **Meng FW**, Mousaei A, Puri G, Hwang J
 **Meng FW**, Murphy PJ<sup>+</sup>. (2025) Canonical and Variant Nucleosome Reprogramming from Sperm to Blastula. *Methods in Molecular Biology*
 [https://link.springer.com/protocol/10.1007/978-1-0716-4522-2_2](https://link.springer.com/protocol/10.1007/978-1-0716-4522-2_2)<br>
  
+**2024**
+ 
 Das D, Khor ES, Jiang F, He J, Kawakami Y, Wainwright L, Hollinger J, Geiger J, Liu H,  **Meng FW**, Porter GA, Jin Z, Murphy PJ, Yao P. (2024) Loss-of-function of RNA-binding protein PRRC2B causes translational defects and congenital cardiovascular malformation. *medRxiv*.
 [https://www.medrxiv.org/content/10.1101/2024.09.26.24313895v1](https://www.medrxiv.org/content/10.1101/2024.09.26.24313895v1)<br>
 
 Blanc RS<sup>+</sup>, Shah N, Salama NA, **Meng FW**, Mousaei A, Chakkalakal JV, Onukwufor JO, Murphy PJ, Calvi LM, Dirksen RT. (2024) Epigenetic erosion of H4K20me1 induced by inflammation drives aged stem cell ferroptosis. *Research Square*.
 [https://www.researchsquare.com/article/rs-3937628/v1](https://www.researchsquare.com/article/rs-3937628/v1)<br>
+
+**2023**
 
 Halblander F<sup>#</sup>, **Meng FW**<sup>+</sup>, Murphy PJ<sup>+</sup>.(2023) Anp32e protects against accumulation of H2A.Z at Sox motif containing promoters during zebrafish gastrulation. *Developmental Biology*. 
 [https://doi.org/10.1016/j.ydbio.2023.12.010](https://doi.org/10.1016/j.ydbio.2023.12.010)<br>
@@ -59,11 +65,17 @@ Halblander F<sup>#</sup>, **Meng FW**<sup>+</sup>, Murphy PJ<sup>+</sup>.(2023) 
 Shi H, Chen S, Yan C, **Meng FW**, Ossip DJ, Li D<sup>+</sup>. (2023) Epigenome-wide DNA methylation profiling in comparison between pathological and physiological hypertrophy of human cardiomyocytes. *Frontiers in Genetics*. 
 [https://doi.org/10.3389/fgene.2023.1264382](https://doi.org/10.3389/fgene.2023.1264382)<br>
 
+**2022**
+
 Akdogan-Ozdilek B, Duval KL, **Meng FW**, Murphy PJ<sup>+</sup>, Goll MG<sup>+</sup>. (2022) Identification of chromatin states during zebrafish gastrulation using CUT&RUN and CUT&Tag. *Developmental Dynamics*. 
 [https://doi.org/10.1002/dvdy.430](https://doi.org/10.1002/dvdy.430)<br>
 
+**2021**
+
 **Meng FW**<sup>+</sup>, Murphy PJ<sup>+</sup>. (2021) Rolling uphill: in vivo reacquisition of pluripotency during cranial neural crest differentiation. *Communications Biology*. 
 [https://doi.org/10.1038/s42003-021-02154-6](https://doi.org/10.1038/s42003-021-02154-6)<br>
+
+**2020**
 
 Murphy KE<sup>\*</sup>, **Meng FW**<sup>\*</sup>, Makowski CE, Murphy PJ<sup>+</sup>. (2020) Genome-wide chromatin accessibility is restricted by ANP32E. *Nature Communications*. 
 [https://doi.org/10.1038/s41467-020-18821-x](https://doi.org/10.1038/s41467-020-18821-x)<br>
@@ -71,11 +83,17 @@ Murphy KE<sup>\*</sup>, **Meng FW**<sup>\*</sup>, Makowski CE, Murphy PJ<sup>+</
 **Meng FW**, Rojas Villa SE, Biteau B<sup>+</sup>. (2020) Sox100B regulates progenitor cell-specific gene expression and differentiation in the adult Drosophila intestine. *Stem Cell Reports*. 
 [https://doi.org/10.1016/j.stemcr.2020.01.003](https://doi.org/10.1016/j.stemcr.2020.01.003)<br>
 
+**2019**
+
 Rojas Villa SE, **Meng FW**, Biteau B<sup>+</sup>. (2019) Zfh2 controls cell activation and differentiation in the adult Drosophila intestinal absorptive lineage. *PLoS Genetics*. 
 [https://doi.org/10.1371/journal.pgen.1008553](https://doi.org/10.1371/journal.pgen.1008553)<br>
 
+**2017**
+
 **Meng FW** and Biteau B<sup>+</sup>. (2017) There and back again: amitosis to repopulate a stem cell pool. *Stem Cell Investigation*. 
 [https://doi.org/10.21037/sci.2017.10.02](https://doi.org/10.21037/sci.2017.10.02)<br>
+
+**2015**
 
 **Meng FW** and Biteau B<sup>+</sup>. (2015) A Sox transcription factor is a critical regulator of adult stem cell proliferation in the Drosophila intestine. *Cell Reports*. 
 [https://doi.org/10.1016/j.celrep.2015.09.061](https://doi.org/10.1016/j.celrep.2015.09.061)<br> 

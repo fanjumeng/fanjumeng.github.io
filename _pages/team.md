@@ -121,7 +121,7 @@ Email: luisatrujillosoto@my.unt.edu
 <br>
 #### Jacques Saseu (undergraduate student, January-June 2025)
 #### Veronica Pelis (undergraduate student, January-June 2025)
-#### Christian Meshesha (Undergraduate student, September-December 2024)
+#### Christian Meshesha (undergraduate student, September-December 2024)
 <br>
 <br>
 <br>
