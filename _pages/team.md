@@ -104,6 +104,17 @@ Email: MadeleineHudson2@my.unt.edu
 <br>
 <br>
 <br>
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/LuisaTrujilloSoto.jpg){: style="width: 275px; float: left; border: 10px"} <br>
+
+#### Luisa Trujilo Soto
+
+Email: luisatrujillosoto@my.unt.edu
+
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 
 # Former Lab Members

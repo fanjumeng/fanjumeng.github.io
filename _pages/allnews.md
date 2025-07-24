@@ -9,6 +9,12 @@ permalink: /allnews.html
 # News
 <br>
 **July 2025** <br>
+Welcome Lusia to join the lab for her undergraduate project!
+<br>
+**July 2025** <br>
+Congrats to Brandon! He is selected for the UNT Undergraduate Research Fellowship!
+<br>
+**July 2025** <br>
 Our study of mapping Tol2 transgene insertion sites is online today in [Cell Reports Methods](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(25)00126-2). We will use this simple method to map zebrafish transgenes! <br>
 <br>
 **July 2025** <br>
