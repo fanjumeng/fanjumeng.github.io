@@ -121,6 +121,24 @@ Email: luisatrujillosoto@my.unt.edu
 <br>
 <br>
 
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/AniciaDeleon.jpg){: style="width: 275px; float: left; border: 10px"} <br>
+
+#### Anicia Deleon
+
+Email: AniciaDeleon@my.unt.edu
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 # Former Lab Members
 <br>
 #### Jacques Saseu (undergraduate student, January-June 2025)
