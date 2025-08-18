@@ -140,6 +140,23 @@ Email: AniciaDeleon@my.unt.edu
 <br>
 <br>
 
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/AmirOmari.jpeg){: style="width: 275px; float: left; border: 10px"} <br>
+
+#### Amir Omari
+
+Email: AmirOmari@my.unt.edu
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 # Former Lab Members
 <br>
