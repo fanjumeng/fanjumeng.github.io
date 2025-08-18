@@ -8,6 +8,9 @@ permalink: /allnews.html
 
 # News
 <br>
+**August 2025** <br>
+Welcome Anicia and Amir to join the lab for their study! Looking forward to a great fall semester! <br>
+<br>
 **July 2025** <br>
 Welcome Luisa to join the lab for her undergraduate project! <br>
 <br>
