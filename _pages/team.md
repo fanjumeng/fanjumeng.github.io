@@ -88,22 +88,6 @@ Email: BlainDaniel@my.unt.edu
 <br>
 <br>
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/MadeleineHudson.jpg){: style="width: 275px; float: left; border: 10px"} <br>
-
-#### Madeleine Hudson
-
-Email: MadeleineHudson2@my.unt.edu
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/LuisaTrujilloSoto.jpg){: style="width: 275px; float: left; border: 10px"} <br>
 
 #### Luisa Trujilo Soto
@@ -160,6 +144,7 @@ Email: AmirOmari@my.unt.edu
 
 # Former Lab Members
 <br>
+#### Madeleine Hudson (undergraduate student, March-May 2025)
 #### Jacques Saseu (undergraduate student, January-June 2025)
 #### Veronica Pelis (undergraduate student, January-June 2025)
 #### Christian Meshesha (undergraduate student, September-December 2024)
