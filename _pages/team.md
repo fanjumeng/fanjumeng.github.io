@@ -130,10 +130,11 @@ Email: AmirOmari@my.unt.edu
 
 # Former Lab Members
 <br>
-#### Madeleine Hudson (undergraduate student, March-May 2025)
-#### Jacques Saseu (undergraduate student, January-June 2025)
-#### Veronica Pelis (undergraduate student, January-June 2025)
-#### Christian Meshesha (undergraduate student, September-December 2024)
+#### Krithik Ramesh (TAMS, September 2024-May 2025)
+#### Madeleine Hudson (undergraduate, March-May 2025)
+#### Jacques Saseu (undergraduate, January-May 2025)
+#### Veronica Pelis (undergraduate, January-May 2025)
+#### Christian Meshesha (undergraduate, September-December 2024)
 <br>
 <br>
 <br>
