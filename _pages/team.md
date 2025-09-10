@@ -57,20 +57,6 @@ Email: BrandonDoh@my.unt.edu
 <br>
 <br>
 <br>
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/KrithikRamesh.png){: style="width: 275px; float: left; border: 10px"} <br>
-
-#### Krithik Ramesh 
-TAMS student
-
-Email: KrithikRamesh@my.unt.edu
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
