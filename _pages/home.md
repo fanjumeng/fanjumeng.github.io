@@ -17,6 +17,7 @@ permalink: /
  **<u>We are actively looking for passionate graduate students and undergraduate students to join us!</u>**
  
  **Graduate students** - For prospective gradaute students, we are part of the [graduate program](https://biology.unt.edu/graduate-programs) of the Department of Biological Sciences. If you are interested in joining our lab as a graduate student, please send Fanju your CV and research interest for further discussion.
+ **Note**: We won't accept any new PhD students for Fall 2026.
  
  **Undergraduate students** - We welcome motivated undergraduate students to join us. Please send Fanju an email for further discussion if you are interested in learning about of our work!
  
