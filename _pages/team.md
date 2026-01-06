@@ -110,26 +110,10 @@ Email: AniciaDeleon@my.unt.edu
 <br>
 <br>
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/AmirOmari.jpeg){: style="width: 275px; float: left; border: 10px"} <br>
-
-#### Amir Omari
-
-Email: AmirOmari@my.unt.edu
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 
 # Former Lab Members
 <br>
+#### Amir Omari (undergraduate, August 2025-December 2025)
 #### Krithik Ramesh (TAMS, September 2024-May 2025)
 #### Madeleine Hudson (undergraduate, March-May 2025)
 #### Jacques Saseu (undergraduate, January-May 2025)

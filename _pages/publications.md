@@ -37,6 +37,10 @@ The histone variant H2A.Z is known to be enriched at promoters and enhancers. By
 
 **2025**
 
+Wei X, Naidu V, Schneider P<sup>#</sup>, Murphy PJ, **Meng FW**<sup>+</sup>. (2025) Protocol for mapping insertion sites of Tol2 transgenes in zebrafish using TransTag. *STAR Protocols*.
+[https://star-protocols.cell.com/protocols/4627](https://star-protocols.cell.com/protocols/4627)<br>
+
+
 **Meng FW**<sup>+</sup>, Schneider P<sup>#</sup>, Wei X, Ariyasiri K, Halpern ME, Murphy PJ<sup>+</sup>. (2025) TransTag enables simple and efficient transgene mapping in zebrafish via tagmentation. *Cell Reports Methods*.
 [https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(25)00126-2](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(25)00126-2)<br>
 
