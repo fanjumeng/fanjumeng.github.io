@@ -110,7 +110,7 @@ Email: AniciaDeleon@my.unt.edu
 <br>
 <br>
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/EireenLiao.jpg){: style="width: 275px; float: left; border: 10px"} <br>
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/EireenLiao.jpeg){: style="width: 275px; float: left; border: 10px"} <br>
 
 #### Eireen Liao
 TAMS student
