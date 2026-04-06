@@ -110,6 +110,24 @@ Email: AniciaDeleon@my.unt.edu
 <br>
 <br>
 
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/EireenLiao.jpg){: style="width: 275px; float: left; border: 10px"} <br>
+
+#### Eireen Liao
+TAMS student
+
+Email: EireenLiao@my.unt.edu
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 # Former Lab Members
 <br>

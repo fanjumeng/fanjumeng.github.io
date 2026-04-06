@@ -8,6 +8,9 @@ permalink: /allnews.html
 
 # News
 <br>
+**April 2026** <br>
+Welcome Eireen to join the lab! <br>
+<br>
 **December 2025** <br>
 Congrats to Xiaolu and Vijay! We prepared a detailed step-by-step protocol for mapping Tol2 transgene insertion sites using TransTag in [STAR Protocols](https://star-protocols.cell.com/protocols/4627). <br>
 <br>
