@@ -10,7 +10,7 @@ permalink: /team/
 
 We are looking for motivated PhD students, Master students and Undergraduate students to join the team. Please email me if you're interested! <br>
 
-## *Postdoc Associate*
+## *Postdoc Associate/Computational Biologist*
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/XiaoluWei.jpg){: style="width: 275px; float: left; border: 10px"} <br>
 
 #### Xiaolu Wei
