@@ -9,6 +9,9 @@ permalink: /allnews.html
 # News
 <br>
 **April 2026** <br>
+Congrats to Brandon for the college offer to Northeastern University! <br>
+<br>
+**April 2026** <br>
 Welcome Eireen to join the lab! <br>
 <br>
 **December 2025** <br>
