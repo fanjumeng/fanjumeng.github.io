@@ -37,7 +37,7 @@ The histone variant H2A.Z is known to be enriched at promoters and enhancers. By
 
 **2026**
 
-Phromsiri P, Wei X, Makowski CE, Reger N, Nguyen DK, Marzia Alam H, Shindo Y, Amodeo A, Murphy PJ<sup>+</sup>, **Meng FW**<sup>+</sup>, Welte MA<sup>+</sup>.(2026) H2A.Z levels control the timing of major events after the maternal-zygotic transition. *bioRxiv*
+Phromsiri P, **Wei X**, Makowski CE, Reger N, Nguyen DK, Marzia Alam H, Shindo Y, Amodeo A, Murphy PJ<sup>+</sup>, **Meng FW**<sup>+</sup>, Welte MA<sup>+</sup>.(2026) H2A.Z levels control the timing of major events after the maternal-zygotic transition. ***bioRxiv***
 [https://www.biorxiv.org/content/10.64898/2026.04.27.721027v2](https://www.biorxiv.org/content/10.64898/2026.04.27.721027v2)<br>
 
 Nguyen DK, Phromsiri P, McDonnell T, Briedis-Gert K, Pauli A, Welte MA, Tropepe V, **Meng FW**, Murphy PJ. (2026) Partitioning of Transposon-Rich Maternal DNA is a Prerequisite for Embryonic Gene Activation. *Research Square*.
@@ -45,11 +45,11 @@ Nguyen DK, Phromsiri P, McDonnell T, Briedis-Gert K, Pauli A, Welte MA, Tropepe 
 
 **2025**
 
-Wei X, Naidu V, Schneider P<sup>#</sup>, Murphy PJ, **Meng FW**<sup>+</sup>. (2025) Protocol for mapping insertion sites of Tol2 transgenes in zebrafish using TransTag. *STAR Protocols*.
+**Wei X**, **Naidu V**, Schneider P<sup>#</sup>, Murphy PJ, **Meng FW**<sup>+</sup>. (2025) Protocol for mapping insertion sites of Tol2 transgenes in zebrafish using TransTag. *STAR Protocols*.
 [https://star-protocols.cell.com/protocols/4627](https://star-protocols.cell.com/protocols/4627)<br>
 
 
-**Meng FW**<sup>+</sup>, Schneider P<sup>#</sup>, Wei X, Ariyasiri K, Halpern ME, Murphy PJ<sup>+</sup>. (2025) TransTag enables simple and efficient transgene mapping in zebrafish via tagmentation. *Cell Reports Methods*.
+**Meng FW**<sup>+</sup>, Schneider P<sup>#</sup>, **Wei X**, Ariyasiri K, Halpern ME, Murphy PJ<sup>+</sup>. (2025) TransTag enables simple and efficient transgene mapping in zebrafish via tagmentation. *Cell Reports Methods*.
 [https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(25)00126-2](https://www.cell.com/cell-reports-methods/fulltext/S2667-2375(25)00126-2)<br>
 
 Blanc RS, Shah N, Hachmer S, Salama NAS, **Meng FW**, Mousaei A, Puri G, Hwang JH, Wacker EE, Yang BA, Aguilar CA, Chakkalakal JV, Onukwufor JO, Murphy PJ, Calvi LM, Dilworth FJ, Dirksen RT.(2025) Epigenetic erosion of H4K20me1 induced by inflammation drives aged stem cell ferroptosis. *Nature Aging*.
