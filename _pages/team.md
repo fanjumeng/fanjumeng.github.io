@@ -42,38 +42,6 @@ Email: vijaykumarnaidu@my.unt.edu
 <br>
 <br>
 <br>
-
-## *Undergraduate Student*
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/BrandonDoh.jpg){: style="width: 275px; float: left; border: 10px"} <br>
-
-#### Brandon Doh 
-TAMS student
-
-Email: BrandonDoh@my.unt.edu
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/BlainDaniel.jpeg){: style="width: 275px; float: left; border: 10px"} <br>
-
-#### Blain Daniel
-
-Email: BlainDaniel@my.unt.edu
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/LuisaTrujilloSoto.jpg){: style="width: 275px; float: left; border: 10px"} <br>
 
 #### Luisa Trujilo Soto
@@ -93,11 +61,13 @@ Email: luisatrujillosoto@my.unt.edu
 <br>
 <br>
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/AniciaDeleon.jpg){: style="width: 275px; float: left; border: 10px"} <br>
+## *Undergraduate Student*
 
-#### Anicia Deleon
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/BlainDaniel.jpeg){: style="width: 275px; float: left; border: 10px"} <br>
 
-Email: AniciaDeleon@my.unt.edu
+#### Blain Daniel
+
+Email: BlainDaniel@my.unt.edu
 
 <br>
 <br>
@@ -106,11 +76,8 @@ Email: AniciaDeleon@my.unt.edu
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/EireenLiao.jpeg){: style="width: 275px; float: left; border: 10px"} <br>
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/EireenLiao.jpg){: style="width: 275px; float: left; border: 10px"} <br>
 
 #### Eireen Liao
 TAMS student
@@ -125,12 +92,10 @@ Email: EireenLiao@my.unt.edu
 <br>
 <br>
 <br>
-<br>
-<br>
-
-
 # Former Lab Members
 <br>
+#### Anicia Deleon (undergraduate, August 2025-May 2026)
+#### Brandon Doh (TAMS, September 2024-May 2026)
 #### Amir Omari (undergraduate, August 2025-December 2025)
 #### Krithik Ramesh (TAMS, September 2024-May 2025)
 #### Madeleine Hudson (undergraduate, March-May 2025)
@@ -142,6 +107,5 @@ Email: EireenLiao@my.unt.edu
 <br>
 <br>
 <br>
-<br>
-<br>
+
 
