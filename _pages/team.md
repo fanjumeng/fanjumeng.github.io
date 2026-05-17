@@ -42,6 +42,7 @@ Email: vijaykumarnaidu@my.unt.edu
 <br>
 <br>
 <br>
+<br>
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/LuisaTrujilloSoto.jpg){: style="width: 275px; float: left; border: 10px"} <br>
 
 #### Luisa Trujilo Soto
@@ -77,7 +78,7 @@ Email: BlainDaniel@my.unt.edu
 <br>
 <br>
 
-![]({{ site.url }}{{ site.baseurl }}/images/teampic/EireenLiao.jpg){: style="width: 275px; float: left; border: 10px"} <br>
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/EireenLiao.jpeg){: style="width: 275px; float: left; border: 10px"} <br>
 
 #### Eireen Liao
 TAMS student
@@ -93,7 +94,6 @@ Email: EireenLiao@my.unt.edu
 <br>
 <br>
 # Former Lab Members
-<br>
 #### Anicia Deleon (undergraduate, August 2025-May 2026)
 #### Brandon Doh (TAMS, September 2024-May 2026)
 #### Amir Omari (undergraduate, August 2025-December 2025)
