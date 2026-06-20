@@ -43,6 +43,8 @@ Phromsiri P, **Wei X**, Makowski CE, Reger N, Nguyen DK, Marzia Alam H, Shindo Y
 Nguyen DK, Phromsiri P, McDonnell T, Briedis-Gert K, Pauli A, Welte MA, Tropepe V, **Meng FW**, Murphy PJ. (2026) Partitioning of Transposon-Rich Maternal DNA is a Prerequisite for Embryonic Gene Activation. ***Research Square***.
 [https://www.researchsquare.com/article/rs-9013907/v1](https://www.researchsquare.com/article/rs-9013907/v1)<br>
 
+**Meng FW**, Nguyen DK, Murphy PJ. Genomic Profiling of Chromatin State Using CUT&Tag. (2026) ***Methods in Molecular Biology*** (submitted)
+
 **2025**
 
 **Wei X**, **Naidu V**, Schneider P<sup>#</sup>, Murphy PJ, **Meng FW**<sup>+</sup>. (2025) Protocol for mapping insertion sites of Tol2 transgenes in zebrafish using TransTag. ***STAR Protocols***.
