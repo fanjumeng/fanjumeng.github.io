@@ -9,7 +9,21 @@ permalink: /team/
 # Current Lab Members
 
 We are looking for motivated PhD students, Master students and Undergraduate students to join the team. Please email me if you're interested! <br>
+## *Principal Investigator*
+![]({{ site.url }}{{ site.baseurl }}/images/teampic/FanjuMeng.jpg){: style="width: 275px; float: left; border: 10px"} <br>
 
+#### Fanju Meng
+
+Email: Fanju.Meng@unt.edu
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 ## *Postdoc Associate/Computational Biologist*
 ![]({{ site.url }}{{ site.baseurl }}/images/teampic/XiaoluWei.jpg){: style="width: 275px; float: left; border: 10px"} <br>
 
