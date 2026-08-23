@@ -8,6 +8,9 @@ permalink: /allnews.html
 
 # News
 <br>
+**August 2026** <br>
+Luisa got admitted into the PhD program in Biology. Welcome her to join our lab as a graduate student! <br>
+<br>
 **April 2026** <br>
 Congrats to Brandon for the college offer to Northeastern University! <br>
 <br>
