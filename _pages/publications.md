@@ -37,6 +37,9 @@ The histone variant H2A.Z is known to be enriched at promoters and enhancers. By
 
 **2026**
 
+Barron WC<sup>\*</sup>, **Wei X**<sup>\*</sup>, Ferdousy S, Zhu L, **Meng FW**<sup>+</sup>, Chen B<sup>+</sup>.(2026) The splicing kinase PRPF-4 is required for somatic development and germline function in C. elegans. ***bioRxiv***
+[https://www.biorxiv.org/content/10.64898/2026.08.28.747746v1](https://www.biorxiv.org/content/10.64898/2026.08.28.747746v1)<br>
+
 Phromsiri P, **Wei X**, Makowski CE, Reger N, Nguyen DK, Marzia Alam H, Shindo Y, Amodeo A, Murphy PJ<sup>+</sup>, **Meng FW**<sup>+</sup>, Welte MA<sup>+</sup>.(2026) H2A.Z levels control the timing of major events after the maternal-zygotic transition. ***bioRxiv***
 [https://www.biorxiv.org/content/10.64898/2026.04.27.721027v2](https://www.biorxiv.org/content/10.64898/2026.04.27.721027v2)<br>
 
