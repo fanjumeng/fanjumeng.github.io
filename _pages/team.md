@@ -108,14 +108,14 @@ Email: EireenLiao@my.unt.edu
 <br>
 <br>
 # Former Lab Members
-#### Anicia Deleon (undergraduate, August 2025-May 2026)
-#### Brandon Doh (TAMS, September 2024-May 2026)
-#### Amir Omari (undergraduate, August 2025-December 2025)
-#### Krithik Ramesh (TAMS, September 2024-May 2025)
-#### Madeleine Hudson (undergraduate, March-May 2025)
-#### Jacques Saseu (undergraduate, January-May 2025)
-#### Veronica Pelis (undergraduate, January-May 2025)
-#### Christian Meshesha (undergraduate, September-December 2024)
+##### Anicia Deleon (undergraduate, August 2025-May 2026)
+##### Brandon Doh (TAMS, September 2024-May 2026)
+##### Amir Omari (undergraduate, August 2025-December 2025)
+##### Krithik Ramesh (TAMS, September 2024-May 2025)
+##### Madeleine Hudson (undergraduate, March-May 2025)
+##### Jacques Saseu (undergraduate, January-May 2025)
+##### Veronica Pelis (undergraduate, January-May 2025)
+##### Christian Meshesha (undergraduate, September-December 2024)
 <br>
 <br>
 <br>

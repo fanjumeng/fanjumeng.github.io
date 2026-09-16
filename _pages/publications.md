@@ -46,12 +46,13 @@ Phromsiri P, **Wei X**, Makowski CE, Reger N, Nguyen DK, Marzia Alam H, Shindo Y
 Nguyen DK, Phromsiri P, McDonnell T, Briedis-Gert K, Pauli A, Welte MA, Tropepe V, **Meng FW**, Murphy PJ. (2026) Partitioning of Transposon-Rich Maternal DNA is a Prerequisite for Embryonic Gene Activation. ***Research Square***.
 [https://www.researchsquare.com/article/rs-9013907/v1](https://www.researchsquare.com/article/rs-9013907/v1)<br>
 
-**Meng FW**, Nguyen DK, Murphy PJ. Genomic Profiling of Chromatin State Using CUT&Tag. (2026) ***Methods in Molecular Biology*** (submitted)
+**Meng FW**, Nguyen DK, Murphy PJ.(2026) Genomic Profiling of Chromatin State Using CUT&Tag. ***Methods in Molecular Biology***
+[https://link.springer.com/protocol/10.1007/978-1-0716-5539-9_16](https://link.springer.com/protocol/10.1007/978-1-0716-5539-9_16)<br>
 
 **2025**
 
 **Wei X**, **Naidu V**, Schneider P<sup>#</sup>, Murphy PJ, **Meng FW**<sup>+</sup>. (2025) Protocol for mapping insertion sites of Tol2 transgenes in zebrafish using TransTag. ***STAR Protocols***.
-[https://star-protocols.cell.com/protocols/4627](https://star-protocols.cell.com/protocols/4627)<br>
+[https://www.cell.com/star-protocols/fulltext/S2666-1667(25)00665-3](https://www.cell.com/star-protocols/fulltext/S2666-1667(25)00665-3)<br>
 
 
 **Meng FW**<sup>+</sup>, Schneider P<sup>#</sup>, **Wei X**, Ariyasiri K, Halpern ME, Murphy PJ<sup>+</sup>. (2025) TransTag enables simple and efficient transgene mapping in zebrafish via tagmentation. ***Cell Reports Methods***.
