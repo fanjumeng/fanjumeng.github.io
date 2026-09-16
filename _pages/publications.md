@@ -37,16 +37,16 @@ The histone variant H2A.Z is known to be enriched at promoters and enhancers. By
 
 **2026**
 
-Barron WC<sup>\*</sup>, **Wei X**<sup>\*</sup>, Ferdousy S, Zhu L, **Meng FW**<sup>+</sup>, Chen B<sup>+</sup>.(2026) The splicing kinase PRPF-4 is required for somatic development and germline function in C. elegans. ***bioRxiv***
+Barron WC<sup>\*</sup>, **Wei X**<sup>\*</sup>, Ferdousy S, Zhu L, **Meng FW**<sup>+</sup>, Chen B<sup>+</sup>.(2026) The splicing kinase PRPF-4 is required for somatic development and germline function in C. elegans. ***bioRxiv***.
 [https://www.biorxiv.org/content/10.64898/2026.08.28.747746v1](https://www.biorxiv.org/content/10.64898/2026.08.28.747746v1)<br>
 
-Phromsiri P, **Wei X**, Makowski CE, Reger N, Nguyen DK, Marzia Alam H, Shindo Y, Amodeo A, Murphy PJ<sup>+</sup>, **Meng FW**<sup>+</sup>, Welte MA<sup>+</sup>.(2026) H2A.Z levels control the timing of major events after the maternal-zygotic transition. ***bioRxiv***
+Phromsiri P, **Wei X**, Makowski CE, Reger N, Nguyen DK, Marzia Alam H, Shindo Y, Amodeo A, Murphy PJ<sup>+</sup>, **Meng FW**<sup>+</sup>, Welte MA<sup>+</sup>.(2026) H2A.Z levels control the timing of major events after the maternal-zygotic transition. ***bioRxiv***.
 [https://www.biorxiv.org/content/10.64898/2026.04.27.721027v2](https://www.biorxiv.org/content/10.64898/2026.04.27.721027v2)<br>
 
 Nguyen DK, Phromsiri P, McDonnell T, Briedis-Gert K, Pauli A, Welte MA, Tropepe V, **Meng FW**, Murphy PJ. (2026) Partitioning of Transposon-Rich Maternal DNA is a Prerequisite for Embryonic Gene Activation. ***Research Square***.
 [https://www.researchsquare.com/article/rs-9013907/v1](https://www.researchsquare.com/article/rs-9013907/v1)<br>
 
-**Meng FW**, Nguyen DK, Murphy PJ.(2026) Genomic Profiling of Chromatin State Using CUT&Tag. ***Methods in Molecular Biology***
+**Meng FW**, Nguyen DK, Murphy PJ.(2026) Genomic Profiling of Chromatin State Using CUT&Tag. ***Methods in Molecular Biology***.
 [https://link.springer.com/protocol/10.1007/978-1-0716-5539-9_16](https://link.springer.com/protocol/10.1007/978-1-0716-5539-9_16)<br>
 
 **2025**

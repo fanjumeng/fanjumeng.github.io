@@ -18,7 +18,7 @@ Congrats to Brandon for the college offer to Colgate University! <br>
 Welcome Eireen to join the lab! <br>
 <br>
 **December 2025** <br>
-Congrats to Xiaolu and Vijay! We prepared a detailed step-by-step protocol for mapping Tol2 transgene insertion sites using TransTag in [STAR Protocols](https://star-protocols.cell.com/protocols/4627). <br>
+Congrats to Xiaolu and Vijay! We prepared a detailed step-by-step protocol for mapping Tol2 transgene insertion sites using TransTag in [STAR Protocols](https://www.cell.com/star-protocols/fulltext/S2666-1667(25)00665-3). <br>
 <br>
 **August 2025** <br>
 Welcome Anicia and Amir to join the lab for their study! Looking forward to a great fall semester! <br>
